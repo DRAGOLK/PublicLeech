@@ -25,7 +25,7 @@ class Loilacaztion:
 
     CLEARED_THUMBNAIL = get_config(
         "STRINGS_CLEARED_THUMBNAIL",
-        "✅ Custom thumbnail cleared succesfully."
+        "✅ Custom thumbnail cleared succesfully😁."
     )
     HELP_SAVE_THUMBNAIL = get_config(
         "STRINGS_HELP_SAVE_THUMBNAIL",
@@ -35,7 +35,7 @@ class Loilacaztion:
         "STRINGS_SAVED_THUMBNAIL",
         (
             "Custom video / file thumbnail saved. "
-            "This image will be used in the upload, till /clearthumbnail."
+            "This image 🖼 will be used in the upload, till /clearthumbnail😌."
         )
     )
 
@@ -50,11 +50,11 @@ class Loilacaztion:
 
     NO_TOR_STATUS = get_config(
         "STRINGS_NO_TOR_STATUS",
-        "🤷‍♂️ No Active, Queued or Paused TORRENTs"
+        "🤷🏻‍♀ No Active, Queued or Paused torrents🤷🏻‍♂"
     )
     TOR_CANCELLED = get_config(
         "STRINGS_TOR_CANCELLED",
-        "Leech Cancelled"
+        "🛑Leech Cancelled🤦🏼‍♀"
     )
     TOR_CANCEL_FAILED = get_config(
         "STRINGS_TOR_CANCEL_FAILED",
